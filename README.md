@@ -1,6 +1,6 @@
 [![iz-hiten's GitHub | Stats](https://stats.quine.sh/iz-hiten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iz-hiten)
 - 👋 Hi, I’m  @iz-hiten .....Hiten Mehta
-- 👀 I’m interested in learning new hing daily
+- 👀 I’m interested in learning new thing daily
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate 
 - 📫 connect me on mail: hiten.cuchd@gmail.com
