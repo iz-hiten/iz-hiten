@@ -1,14 +1,31 @@
-[![iz-hiten's GitHub | Stats](https://stats.quine.sh/iz-hiten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iz-hiten)
-- 👋 Hi, I’m  @iz-hiten .....Hiten Mehta
-- 👀 I’m interested in learning new thing daily
-- 🌱 I’m currently working in AI Ml
-- 💞️ I’m looking to collaborate 
-- 📫 connect me on mail: hiten.cuchd@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: easy to adapt
+```
+██╗  ██╗██╗████████╗███████╗███╗   ██╗
+██║  ██║██║╚══██╔══╝██╔════╝████╗  ██║
+███████║██║   ██║   █████╗  ██╔██╗ ██║
+██╔══██║██║   ██║   ██╔══╝  ██║╚██╗██║
+██║  ██║██║   ██║   ███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝  M E H T A
+```
 
-<!---
-iz-hiten/iz-hiten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![iz-hiten's GitHub | Stats](https://stats.quine.sh/iz-hiten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=iz-hiten)
+```
+[ 0.004 ] building at Caprae Capital & PreciQube ............ OK
+[ 0.117 ] dual-degree @ IIT Madras + Chandigarh University .................... OK
+[ 0.402 ] GATE 2026 — Data Science & AI .......... OK
+[ 0.663 ] Love UI and automation ........... OK
+[ 0.918 ] hehe ................... READY
+$ whoami
+```
+<img src="https://skillicons.dev/icons?i=py,ts,react,spring,firebase,pytorch,tensorflow,aws,docker,kubernetes,vercel&theme=dark" />
+Developer · AI/ML 
+
+ 
+```
+$ ls ~/links
+```
+&nbsp;&nbsp;&nbsp;&nbsp;[portfolio](https://hitenmehta.vercel.app) `·` [linkedin](https://linkedin.com/in/amhiten) `·` [email](mailto:hiten.cuchd@gmail.com)
+ 
+
+
+
+
+<br/><br/>
